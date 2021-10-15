@@ -1,7 +1,8 @@
 # [Miniforge](https://github.com/conda-forge/miniforge) MAC m1
 
 ## Install Miniforge
-`conda config --set auto_activate_base false`
+* Download and run Apple Silicon installation script from [here](https://github.com/conda-forge/miniforge)
+* Disable default base `conda config --set auto_activate_base false`
 
 ## Remove conda / miniforge
 * Remove the root prefix
