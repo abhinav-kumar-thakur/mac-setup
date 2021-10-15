@@ -4,6 +4,9 @@
 * Download and run Apple Silicon installation script from [here](https://github.com/conda-forge/miniforge)
 * Disable default base `conda config --set auto_activate_base false`
 
+## Command for reference:
+* Check arch: `lipo -archs $(which python)`
+
 ## Remove conda / miniforge
 * Remove the root prefix
 `rm -rf $(conda info --base)`
