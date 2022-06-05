@@ -6,6 +6,7 @@
 
 ## Utilities
 * [Iterm2 with Oh-my-zsh](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
+* Plugins for Oh-my-zsh: zsh-autosuggestions, z, git ...
 * [Shiftit for managing windows](https://github.com/fikovnik/ShiftIt)
 
 ## Tools
