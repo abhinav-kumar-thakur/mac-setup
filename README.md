@@ -9,7 +9,8 @@
 * [Miniforge](./miniforge/conda.md) for python
 
 ## Windows Manager
-* [Shiftit](https://github.com/fikovnik/ShiftIt)
+* [Shiftit](https://github.com/fikovnik/ShiftIt): Not available for apple silicon + Not in active development
+* rectangle: `brew install --cask rectangle`
 
 ## Tools
 * [Tensorflow](./m1/tensorflow_metal.md)
