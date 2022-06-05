@@ -1,13 +1,15 @@
 # mac-setup
 
+## iTerm
+* [Iterm2 with Oh-my-zsh](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
+* Plugins for Oh-my-zsh: zsh-autosuggestions, z, git ...
+
 ## Package managers
 * [Homebrew](https://brew.sh/) + Add `eval $(/opt/homebrew/bin/brew shellenv)` to `~/.zshrc`
 * [Miniforge](./miniforge/conda.md) for python
 
-## Utilities
-* [Iterm2 with Oh-my-zsh](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
-* Plugins for Oh-my-zsh: zsh-autosuggestions, z, git ...
-* [Shiftit for managing windows](https://github.com/fikovnik/ShiftIt)
+## Windows Manager
+* [Shiftit](https://github.com/fikovnik/ShiftIt)
 
 ## Tools
 * [Tensorflow](./m1/tensorflow_metal.md)
