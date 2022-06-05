@@ -1,7 +1,7 @@
 # mac-setup
 
 ## Package managers
-* [Homebrew](https://brew.sh/)
+* [Homebrew](https://brew.sh/) + Add `eval $(/opt/homebrew/bin/brew shellenv)` to `~/.zshrc`
 * [Miniforge](./miniforge/conda.md) for python
 
 ## Utilities
